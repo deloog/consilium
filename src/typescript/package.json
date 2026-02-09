@@ -1,0 +1,26 @@
+{
+  "name": "consilium-v7.6",
+  "version": "7.6.0",
+  "description": "Consilium v7.6 - Multi-Agent Decision Engine (TypeScript Version)",
+  "main": "dist/consilium_v7_6.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/consilium_v7_6.js",
+    "dev": "ts-node src/consilium_v7_6.ts",
+    "install:types": "npm install --save-dev @types/node"
+  },
+  "keywords": [
+    "consilium",
+    "ai",
+    "multi-agent",
+    "decision-engine",
+    "llm"
+  ],
+  "author": "Consilium Team",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+}
