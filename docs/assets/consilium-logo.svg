@@ -1,0 +1,33 @@
+<!-- Consilium Logo - Text Based -->
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="90" fill="#1a1a2e" stroke="#16213e" stroke-width="4"/>
+  
+  <!-- Inner Circle -->
+  <circle cx="100" cy="100" r="75" fill="#0f3460"/>
+  
+  <!-- Shield Shape -->
+  <path d="M100 40 L140 60 L140 100 C140 130 100 150 100 150 C100 150 60 130 60 100 L60 60 Z" fill="#e94560" opacity="0.9"/>
+  
+  <!-- Inner Shield -->
+  <path d="M100 55 L125 70 L125 100 C125 120 100 135 100 135 C100 135 75 120 75 100 L75 70 Z" fill="#1a1a2e"/>
+  
+  <!-- Check Mark -->
+  <path d="M85 95 L95 105 L115 80" stroke="#00d9ff" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Dots around shield - representing multiple agents -->
+  <circle cx="100" cy="25" r="4" fill="#00d9ff"/>
+  <circle cx="155" cy="55" r="4" fill="#00d9ff"/>
+  <circle cx="155" cy="115" r="4" fill="#00d9ff"/>
+  <circle cx="100" cy="175" r="4" fill="#00d9ff"/>
+  <circle cx="45" cy="115" r="4" fill="#00d9ff"/>
+  <circle cx="45" cy="55" r="4" fill="#00d9ff"/>
+  
+  <!-- Connection lines -->
+  <line x1="100" y1="29" x2="100" y2="40" stroke="#00d9ff" stroke-width="1" opacity="0.5"/>
+  <line x1="151" y1="57" x2="140" y2="60" stroke="#00d9ff" stroke-width="1" opacity="0.5"/>
+  <line x1="151" y1="113" x2="140" y2="100" stroke="#00d9ff" stroke-width="1" opacity="0.5"/>
+  <line x1="100" y1="171" x2="100" y2="150" stroke="#00d9ff" stroke-width="1" opacity="0.5"/>
+  <line x1="49" y1="113" x2="60" y2="100" stroke="#00d9ff" stroke-width="1" opacity="0.5"/>
+  <line x1="49" y1="57" x2="60" y2="60" stroke="#00d9ff" stroke-width="1" opacity="0.5"/>
+</svg>

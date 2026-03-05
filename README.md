@@ -1,7 +1,7 @@
 # Consilium | 智议决策引擎
 
 <p align="center">
-  <img src="docs/assets/consilium-logo.png" alt="Consilium Logo" width="200">
+  <img src="docs/assets/consilium-logo.svg" alt="Consilium Logo" width="200">
 </p>
 
 <p align="center">
